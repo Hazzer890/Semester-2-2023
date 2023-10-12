@@ -1,5 +1,5 @@
 
-![4788](./LongLogo.png)
+![4788](https://github.com/CurtinFRC/.github/blob/6308cf56615ef5840abd8fddf62929d69c43bebd/profile/LongLogo.png)
  
 Its gonna be an interesting semester. Gonna have to stay on top of the lab work.
 
