@@ -1,3 +1,5 @@
+
+![4788](./LongLogo.png)
  
 Its gonna be an interesting semester. Gonna have to stay on top of the lab work.
 
